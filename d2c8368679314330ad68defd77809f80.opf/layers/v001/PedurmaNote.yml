@@ -1,0 +1,40 @@
+id: 0ce66949979148ccbaa0eab7807f08ee
+annotation_type: PedurmaNote
+revision: '00001'
+annotations:
+  1ec5a7906d43424ba19119d71d8a6efb:
+    span:
+      start: 58
+      end: 60
+    collation_note: <མཚན་བྱང་འདི་གཞུང་ལས་བླངས་ཏེ་བཀོད་ཅིང་། «སྡེ་»ཆོས་ཀྱི་སྐུ་ལ་གནས་པའི་ཡོན་ཏན་ལ་བསྟོད་པ་བཞུགས།
+      «པེ་»«སྣར་»ཆོས་ཀྱི་སྐུ་ལ་གནས་པའི་ཡོན་ཏན་ཐུན་མོང་མ་ཡིན་པ་ལ་བསྟོད་པ་བཞུགས་སོ།>
+  336eb82beb8c46f7a3dc977cdade271a:
+    span:
+      start: 583
+      end: 587
+    collation_note: <«སྣར་»བཞག>
+  c6e04dc5e6634636ac02c132d917b718:
+    span:
+      start: 757
+      end: 760
+    collation_note: <«པེ་»«སྣར་»བཞུད།>
+  0ad94529d69745b78b4f8cc88352d883:
+    span:
+      start: 1175
+      end: 1179
+    collation_note: <«པེ་»«སྣར་»བསླུ།>
+  52344e3b0b9a4a9c85cc1a11464b08d5:
+    span:
+      start: 1385
+      end: 1391
+    collation_note: <«པེ་»«སྣར་»པ།>
+  fe4f92fb5d85455a8eb7e4b0fd181905:
+    span:
+      start: 1954
+      end: 1959
+    collation_note: <«པེ་»«སྣར་»གསུང་།>
+  cc67f33b35144d5f8a47b20b5c9f3a86:
+    span:
+      start: 2480
+      end: 2483
+    collation_note: <5«པེ་»ཙྪ།>
